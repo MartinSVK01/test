@@ -7,6 +7,3 @@ and stuff
 and stuffand stuff
 and stuff
 and stuff
-
-here I go ...
-completed
