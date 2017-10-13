@@ -1,5 +1,5 @@
 # test
-tutorial for me
+tutorial
 editor writing stuff ..
 and stuff
 and stuff
